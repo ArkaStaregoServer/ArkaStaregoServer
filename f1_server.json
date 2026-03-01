@@ -6,7 +6,7 @@
       "openbutton": 0,
       "hideicon": false,
       "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/uSDiD2P.png",
+      "iconurl": "https://raw.githubusercontent.com/ArkaStaregoServer/ArkaStaregoServer/refs/heads/main/InGame_Logo_WithText_512x512_v3.png",
       "disableicontext": true,
       "iconposition": 1,
       "icontextcolor": 0,
@@ -18,7 +18,7 @@
       {
         "layout": 1,
         "buttontext": "[PL] Witaj",
-        "imageurl": "https://i.imgur.com/xKhGKfq.png",
+        "imageurl": "https://raw.githubusercontent.com/ArkaStaregoServer/ArkaStaregoServer/refs/heads/main/InGame_Background_1920x1080.png",
         "content": [
           {
             "title": "Arka Starego",
@@ -29,7 +29,7 @@
       {
         "layout": 2,
         "buttontext": "[PL] Ustawienia",
-        "imageurl": "https://i.imgur.com/xKhGKfq.png",
+        "imageurl": "https://raw.githubusercontent.com/ArkaStaregoServer/ArkaStaregoServer/refs/heads/main/InGame_Background_1920x1080.png",
         "content": [
           {
             "title": "Mody",
@@ -44,7 +44,7 @@
       {
         "layout": 1,
         "buttontext": "[EN] Welcome",
-        "imageurl": "https://i.imgur.com/xKhGKfq.png",
+        "imageurl": "https://raw.githubusercontent.com/ArkaStaregoServer/ArkaStaregoServer/refs/heads/main/InGame_Background_1920x1080.png",
         "content": [
           {
             "title": "Arka Starego",
@@ -55,7 +55,7 @@
       {
         "layout": 2,
         "buttontext": "[EN] Settings",
-        "imageurl": "https://i.imgur.com/xKhGKfq.png",
+        "imageurl": "https://raw.githubusercontent.com/ArkaStaregoServer/ArkaStaregoServer/refs/heads/main/InGame_Background_1920x1080.png",
         "content": [
           {
             "title": "Mody",
