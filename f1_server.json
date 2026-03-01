@@ -37,7 +37,7 @@
           },
           {
             "title": "Ustawienia",
-            "text": "<TextStyle.Green>- PVE</>\n<TextStyle.Red>- Kilka map</>\n<TextStyle.Orange>- Brak damage po upadku</>\n<TextStyle.Orange>- Latanie w jaskiniach</>\n<TextStyle.Red>- Wyszukiwarka dino na mapie</>\n<TextStyle.Red>- Brak utraty itemów po śmierci</>\n<TextStyle.Violet>- Teleporty</>\n<TextStyle.Violet>- Klonowanie</>\n<TextStyle.Red>- Stack 5000</>\n<TextStyle.Red>- Sruktury nie ulegaja zniszczeniu po czasie</>\n<TextStyle.Orange>- Szybsze rozmnażanie i rośnięcie dinków</>\n<TextStyle.Orange>- Więcej zbierania surowców</>\n<TextStyle.Orange>- Lepsze statystki dla gracza</>"
+            "text": "<TextStyle.Green>- PVE</>\n<TextStyle.Green>- Kilka map</>\n<TextStyle.Green>- Brak damage po upadku</>\n<TextStyle.Green>- Latanie w jaskiniach</>\n<TextStyle.Green>- Wyszukiwarka dino na mapie</>\n<TextStyle.Green>- Brak utraty itemów po śmierci</>\n<TextStyle.Green>- Teleporty</>\n<TextStyle.Green>- Klonowanie</>\n<TextStyle.Green>- Stack 5000</>\n<TextStyle.Green>- Sruktury nie ulegaja zniszczeniu po czasie</>\n<TextStyle.Green>- Szybsze rozmnażanie i rośnięcie dinków</>\n<TextStyle.Green>- Więcej zbierania surowców</>\n<TextStyle.Green>- Lepsze statystki dla gracza</>"
           }
         ]
       },
