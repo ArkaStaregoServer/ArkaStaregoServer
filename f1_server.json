@@ -8,7 +8,7 @@
       "hideiconafter": 60,
       "iconurl": "https://raw.githubusercontent.com/ArkaStaregoServer/ArkaStaregoServer/refs/heads/main/InGame_Logo_WithText_512x512_v3.png",
       "disableicontext": true,
-      "iconposition": 1,
+      "iconposition": 3,
       "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": true,
