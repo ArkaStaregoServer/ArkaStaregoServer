@@ -37,7 +37,7 @@
           },
           {
             "title": "Ustawienia",
-            "text": "- PVE\n- Kilka map\n- Brak opłat za serwer\n- Brak damage po upadku\n- Latanie w jaskiniach\n- Wyszukiwarka dino na mapie\n- Brak utraty itemów po śmierci\n- Teleporty\n- Klonowanie\n- Stack 5000\n- Sruktury nie ulegaja zniszczeniu\n- Szybsze rozmnażanie i rośnięcie dinków\n- Więcej zbierania surowców\n- Lepsze statystki dla gracza"
+            "text": "<TextStyle.Green>- PVE</>\n<TextStyle.Red>- Kilka map</>\n<TextStyle.Orange>- Brak damage po upadku</>\n<TextStyle.Orange>- Latanie w jaskiniach</>\n<TextStyle.Red>- Wyszukiwarka dino na mapie</>\n<TextStyle.Red>- Brak utraty itemów po śmierci</>\n<TextStyle.Violet>- Teleporty</>\n<TextStyle.Violet>- Klonowanie</>\n<TextStyle.Red>- Stack 5000</>\n<TextStyle.Red>- Sruktury nie ulegaja zniszczeniu po czasie</>\n<TextStyle.Orange>- Szybsze rozmnażanie i rośnięcie dinków</>\n<TextStyle.Orange>- Więcej zbierania surowców</>\n<TextStyle.Orange>- Lepsze statystki dla gracza</>"
           }
         ]
       },
