@@ -22,7 +22,7 @@
         "content": [
           {
             "title": "Arka Starego",
-            "text": "Test\n\nTest2\nTest3OpenButton  - "
+            "text": "<TextStyle.LightBlue>F1 - Info Serwera</>\n<TextStyle.LightBlue>F2 - Glosowanie na Serwer</>\n<TextStyle.LightBlue>F3 - Sklep za tokeny</>\n\nTokeny zdobywasz tylko za aktywność:\n- 15 minut online = 15 Tokenów\n- Głosowanie = 100 Tokenów\n\n- PVE\n- Friendly\n- Active Admin\n- No Wipe\n- No P2W\n- No Cheat\n- Struktury nie znikają\n\n<TextStyle.Red>Dołącz do Discord i wbijaj na głosowy :-)</>\ndiscord.gg/bm8nJAWANH lub kliknij na dole po lewej.\n"
           }
         ]
       },
